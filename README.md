@@ -101,7 +101,7 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 ### Sample Text Prediction
 
-![image](https://github.com/user-attachments/assets/7ffc3aa4-440c-45ea-aeb8-31e701c68209)
+![image](https://github.com/user-attachments/assets/30054af7-228d-42db-8b48-b66ec1724b34)
 
 ## RESULT
 Thus the LSTM-based Named Entity Recognition (NER) model was successfully developed and trained.
